@@ -9,7 +9,7 @@ I design and build AI-powered products, cloud platforms, and scalable backend sy
 ## 🧠 What I'm focused on right now
 
 - 🔭 **Founding AI Engineer** at [GreenOre AI](https://github.com/izuchukwucharles) — building an AI-enabled commodities trading and trust management platform
-- 🤖 Designing and shipping **production AI systems** using LLMs, Agents, and RAG
+- 🤖 Designing and shipping **production AI systems** using LLMs, Agents, RAG, and MCP
 - ☁️ **AWS Cloud Architect** building cloud-native, serverless, and infrastructure-as-code solutions
 - 💻 Backend Engineer specialising in **Node.js** and **Python**
 - 🌍 Based in **London, United Kingdom**
